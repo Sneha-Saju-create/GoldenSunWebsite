@@ -300,7 +300,6 @@ h5{
   height: 8px;
 }
 .testimonial-card-scroll::-webkit-scrollbar-thumb{
-  background: #ffb400;
   border-radius: 4px;
 }
 .line{
@@ -388,7 +387,7 @@ h5{
 
 
 .consultation-section {
-  background-image: url('servicesbanner.jpg'); /* example bg */
+  background-image: url('image/servicesbanner.jpg'); /* example bg */
   background-size: cover;
   background-position: center;
   height: 400px;
